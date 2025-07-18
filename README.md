@@ -1,7 +1,3 @@
-Sure! Here's a refined version of the LinkedIn post, tailored specifically for a **GitHub README file**. It maintains a professional tone, focuses on key contributions, and is formatted clearly for developers or project reviewers.
-
----
-
 # 📊 Power BI Business Dashboard – AtliQ Hardware
 
 ## 📝 Project Overview
