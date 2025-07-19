@@ -59,10 +59,25 @@ The dashboard received a complete design makeover using **modern, user-centric d
   * **Power BI App** creation for end-user access
   * **Workspace Management** for collaboration and permissions
 
+
+## 📝 usiness related terms
+* Gross price
+* Pre-invoice deductions
+* Post-Invoice deductions
+* Net Invoice sale
+* Gross Margin
+* Net sales
+* Net profit
+* COGC - cost of goods sold
+* YTD - Year to Date
+* YTG - Year to Go
+* Direct
+* Retailer
+* Distributors
+* Consumer
+
+
 ## 🚀 Outcomes
 
 This project successfully demonstrates the application of Power BI for building an **enterprise-grade business intelligence solution**. The result is an interactive, scalable, and visually engaging dashboard designed to support cross-functional decision-making.
 
----
-
-Let me know if you want to include a preview image, embed a sample report, or link a walkthrough video!
